@@ -7,3 +7,9 @@ HDInsight activities and carry out data transformations. Finally report in Power
 
 
 
+*******************************        TOO SEE OUTPUT OF THE PROJECT CLICK HERE         *************************
+
+[![Reporting Covid19 trends and prediction spread of Corona Virus by Sai Kiran](https://img.youtube.com/vi/zgNdoWWXymk/0.jpg)](https://www.youtube.com/watch?v=zgNdoWWXymk-Y "Reporting Covid19 trends and prediction spread of Corona Virus by Sai Kiran")
+
+
+
